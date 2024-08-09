@@ -11,7 +11,7 @@
 
 		{
             "type": "bitmap",
-            "file": "font/ranks/ranks.png",
+            "file": "font/general/ranks/ranks.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -34,11 +34,11 @@
             ]
         },
 
-		{"type": "bitmap","file": "font/logos/logo.png","ascent": 40, "height": 112, "chars": ["ࡰ"]},
-		{"type": "bitmap","file": "font/ranks/ehackerlogo.png","ascent":8,"height":8,"chars":[""]},
-		{"type": "bitmap","file": "font/ranks/eherologo.png","ascent":7,"height":8,"chars":[""]},
-		{"type": "bitmap","file": "font/ranks/ekinglogo.png","ascent":7,"height":8,"chars":[""]},
-		{"type": "bitmap","file": "font/ranks/ownernew.png","ascent":40,"height":50,"chars":[""]},
+		{"type": "bitmap","file": "font/general/logos/logo.png","ascent": 40, "height": 112, "chars": ["ࡰ"]},
+		{"type": "bitmap","file": "font/general/ranks/ehackerlogo.png","ascent":8,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/general/ranks/eherologo.png","ascent":7,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/general/ranks/ekinglogo.png","ascent":7,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/general/ranks/ownernew.png","ascent":40,"height":50,"chars":[""]},
 
 		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
 
