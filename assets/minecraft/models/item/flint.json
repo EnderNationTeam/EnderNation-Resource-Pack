@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/flint"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/gewehr_munition"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/gewehr_munition"}
   ]
 }

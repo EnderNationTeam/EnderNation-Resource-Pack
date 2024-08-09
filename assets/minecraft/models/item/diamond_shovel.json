@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/diamond_shovel"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/desert_eagle"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/desert_eagle"}
   ]
 }

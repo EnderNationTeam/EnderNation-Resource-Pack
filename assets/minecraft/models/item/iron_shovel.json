@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/iron_shovel"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/m1911"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/m1911"}
   ]
 }

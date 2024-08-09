@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/wheat_seeds"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/schrotflinten_munition"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/schrotflinten_munition"}
   ]
 }

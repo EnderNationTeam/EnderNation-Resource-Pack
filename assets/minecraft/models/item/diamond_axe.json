@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/diamond_axe"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/m98b"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/m98b"}
   ]
 }

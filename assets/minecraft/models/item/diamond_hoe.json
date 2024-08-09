@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/diamond_hoe"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/m16"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/m16"}
   ]
 }

@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/iron_pickaxe"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/spas_12"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/spas_12"}
   ]
 }

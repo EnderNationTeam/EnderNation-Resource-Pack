@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/stone_shovel"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/g17"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/g17"}
   ]
 }

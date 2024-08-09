@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/wooden_pickaxe"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/m1014"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/m1014"}
   ]
 }

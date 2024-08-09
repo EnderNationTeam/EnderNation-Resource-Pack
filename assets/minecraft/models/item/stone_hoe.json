@@ -4,6 +4,6 @@
         "layer0": "minecraft:item/stone_hoe"
     },
     "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/p90"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/enderguns/weapon/p90"}
   ]
 }
