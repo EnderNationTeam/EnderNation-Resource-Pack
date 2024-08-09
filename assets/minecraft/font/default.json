@@ -1,0 +1,59 @@
+{
+	"providers": [
+    {
+      "type": "ttf",
+      "file": "minecraft:font.ttf",
+      "shift": [0, 0.5],
+      "size": 10.0,
+      "oversample": 20.0,
+      "skip": ""
+  },
+
+		{
+            "type": "bitmap",
+            "file": "font/ranks/ranks.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+				""
+            ]
+        },
+
+		{"type": "bitmap","file": "font/logos/logo.png","ascent": 40, "height": 112, "chars": ["ࡰ"]},
+		{"type": "bitmap","file": "font/ranks/ehackerlogo.png","ascent":8,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/ranks/eherologo.png","ascent":7,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/ranks/ekinglogo.png","ascent":7,"height":8,"chars":[""]},
+		{"type": "bitmap","file": "font/ranks/ownernew.png","ascent":40,"height":50,"chars":[""]},
+
+		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
+
+
+
+		{"type": "bitmap","file": "font/space.png","ascent": -32768,"height": -3,"chars": ["⻔"]},
+		{"type": "bitmap","file": "font/space_split.png","ascent": 1,"height": 100,"chars": [""]},
+		
+
+		{"type": "bitmap","file": "font/eol-jobs/farmer.png","ascent":8,"height":8,"chars":[""]},
+		
+		
+		{"type": "bitmap","file": "font/enderguns/flashbang.png","ascent": 1000,"height": 32768,"chars": [""]}
+
+          
+	
+	]
+}
