@@ -13,7 +13,7 @@
             "type": "bitmap",
             "file": "font/general/ranks/ranks.png",
             "ascent": 7,
-            "height": 7,
+            "height": 9,
             "chars": [
                 "",
                 "",
