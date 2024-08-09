@@ -39,6 +39,13 @@
 		{"type": "bitmap","file": "font/general/ranks/eherologo.png","ascent":7,"height":8,"chars":[""]},
 		{"type": "bitmap","file": "font/general/ranks/ekinglogo.png","ascent":7,"height":8,"chars":[""]},
 		{"type": "bitmap","file": "font/general/ranks/ownernew.png","ascent":40,"height":50,"chars":[""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/coins.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/deaths.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/kd.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/kills.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/next-map.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/pings.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/de/scoreboard/spielzeit.png","ascent": 11, "height": 11, "chars": [""]},
 
 		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
 
@@ -52,6 +59,7 @@
 		
 		
 		{"type": "bitmap","file": "font/enderguns/flashbang.png","ascent": 1000,"height": 32768,"chars": [""]}
+
 
           
 	
