@@ -46,6 +46,7 @@
         {"type": "bitmap","file": "font/general/en/scoreboard/next-map.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/en/scoreboard/pings.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/de/scoreboard/spielzeit.png","ascent": 11, "height": 11, "chars": [""]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/farmer.png","ascent":8,"height":8,"chars":[""]},
 
 		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
 
@@ -55,7 +56,6 @@
 		{"type": "bitmap","file": "font/general/space_split.png","ascent": 1,"height": 100,"chars": [""]},
 		
 
-		{"type": "bitmap","file": "font/eol-jobs/scoreboard/farmer.png","ascent":8,"height":8,"chars":[""]},
 		
 		
 		{"type": "bitmap","file": "font/enderguns/flashbang.png","ascent": 1000,"height": 32768,"chars": [""]}
