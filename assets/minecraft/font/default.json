@@ -45,7 +45,7 @@
         {"type": "bitmap","file": "font/general/en/scoreboard/kills.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/en/scoreboard/next-map.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/en/scoreboard/pings.png","ascent": 11, "height": 11, "chars": [""]},
-        {"type": "bitmap","file": "font/general/en/scoreboard/rank.png","ascent": 11, "height": 11, "chars": ["e"]},
+        {"type": "bitmap","file": "font/general/en/scoreboard/rank.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/de/scoreboard/spielzeit.png","ascent": 11, "height": 11, "chars": [""]},
         {"type": "bitmap","file": "font/general/en/scoreboard/farmer.png","ascent":8,"height":8,"chars":[""]},
 
