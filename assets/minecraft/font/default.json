@@ -51,7 +51,8 @@
         {"type": "bitmap","file": "font/tags/general/en/scoreboard/rank.png","ascent": 7, "height": 8, "chars": [""]},
         {"type": "bitmap","file": "font/tags/general/de/scoreboard/spielzeit.png","ascent": 7, "height": 8, "chars": [""]},
         {"type": "bitmap","file": "font/tags/general/en/scoreboard/playtime.png","ascent": 7, "height": 8, "chars": [""]},
-        {"type": "bitmap","file": "font/tags/general/en/scoreboard/farmer.png","ascent":8,"height":8,"chars":[""]},
+        {"type": "bitmap","file": "font/tags/general/en/scoreboard/farmer.png","ascent":7,"height":8,"chars":[""]},
+        {"type": "bitmap","file": "font/tags/general/de/scoreboard/bauer.png","ascent":7,"height":8,"chars":[""]},
         {"type": "bitmap","file": "font/tags/general/intl/scoreboard/kd.png","ascent": 7, "height": 8, "chars": [""]},
 
 
