@@ -69,6 +69,7 @@
         {"type": "bitmap","file": "font/tags/lobby/en/hotbar/player-team-visible.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file": "font/tags/lobby/intl/hotbar/navigator.png","ascent":15,"height":27,"chars":[""]},
 
+        {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/trampoline.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/trampolin.png","ascent":15,"height":27,"chars":[""]},
 
 		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
