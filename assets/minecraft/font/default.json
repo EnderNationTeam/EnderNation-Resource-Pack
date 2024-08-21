@@ -35,6 +35,9 @@
         },
 
 		{"type": "bitmap","file": "font/tags/general/logos/logo.png","ascent": 50, "height": 70, "chars": [""]},
+        {"type": "bitmap","file": "font/tags/general/logos/endernation-community.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file": "font/tags/general/logos/endoflife.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file": "font/tags/general/logos/enderguns.png","ascent":15,"height":27,"chars":[""]},
 
 
 		{"type": "bitmap","file": "font/tags/general/ranks/ehackerlogo.png","ascent":7,"height":8,"chars":[""]},
@@ -71,13 +74,13 @@
 
         {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/trampoline.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/trampolin.png","ascent":15,"height":27,"chars":[""]},
-        {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/snowball.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/snowball.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/schneeball.png","ascent":15,"height":27,"chars":[""]},
-        {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/partypopper.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/partypopper.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/konfettikanone.png","ascent":15,"height":27,"chars":[""]},
-        {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/freezecannon.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/freezecannon.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/frostkanone.png","ascent":15,"height":27,"chars":[""]},
-        {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/christmastree.png","ascent":15,"height":27,"chars":[""]},
+        {"type": "bitmap","file":"font/tags/lobby/en/hotbar/uc/christmastree.png","ascent":15,"height":27,"chars":[""]},
         {"type": "bitmap","file":"font/tags/lobby/de/hotbar/uc/weihnachtsbaum.png","ascent":15,"height":27,"chars":[""]},
 
 		{"type": "bitmap","file": "gui/navnew.png","ascent":19,"height":256,"chars":[""]},
