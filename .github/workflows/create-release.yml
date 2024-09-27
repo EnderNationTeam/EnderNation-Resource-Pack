@@ -17,7 +17,7 @@ jobs:
       run: |
         mkdir -p minecraft_assets
         rsync -av --exclude='.*' . minecraft_assets/
-        zip -r EnderNation-Resource-Pack.zip minecraft_assets
+        zip -r minecraft_assets.zip minecraft_assets
 
     - name: Create Release
       id: create_release
@@ -35,5 +35,5 @@ jobs:
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
         asset_path: ./minecraft_assets.zip
-        asset_name: minecraft_assets.zip
+        asset_name: EnderNation-Resource-Pack.zip
         asset_content_type: application/zip
