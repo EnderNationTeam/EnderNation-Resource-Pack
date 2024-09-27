@@ -1,0 +1,39 @@
+name: Release Minecraft Assets
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Zip file
+      run: |
+        mkdir -p minecraft_assets
+        rsync -av --exclude='.*' . minecraft_assets/
+        zip -r EnderNation-Resource-Pack.zip minecraft_assets
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: 'v1.0.${{ github.run_number }}'
+        release_name: 'Minecraft Assets Release v1.0.${{ github.run_number }}'
+        draft: false
+        prerelease: false
+
+    - name: Upload Release Asset
+      uses: actions/upload-release-asset@v1
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./minecraft_assets.zip
+        asset_name: minecraft_assets.zip
+        asset_content_type: application/zip
