@@ -39,7 +39,7 @@ jobs:
           
           📥 Installation:
           
-          1. Download: Lade das Resource-Pack [hier](https://github.com/EnderNationTeam/EnderNation-Resource-Pack/releases/latest/download/EnderNation-Resource-Pack.zip) herunter.
+          1. Download: Lade das Resource-Pack [hier](https://github.com/EnderNationTeam/EnderNation-Resource-Pack/releases/v${{ github.run_number }}/download/EnderNation-Resource-Pack.zip) herunter.
           2. Installation: Verschiebe die .zip-Datei in deinen resourcepacks-Ordner im Minecraft-Verzeichnis.
           3. Aktivieren: Starte Minecraft, gehe zu den Ressourcenpaketen in den Optionen, und aktiviere das "EnderNation-Resource-Pack v${{ github.run_number }}".
           4. Genießen: Tritt dem EnderNation-Server bei und tauche in eine völlig neue Welt ein!
