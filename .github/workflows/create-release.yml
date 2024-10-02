@@ -15,9 +15,7 @@ jobs:
 
     - name: Set up Zip file
       run: |
-        mkdir -p minecraft_assets
-        rsync -av --exclude='.*' . minecraft_assets/
-        zip -r minecraft_assets.zip minecraft_assets
+        zip -r minecraft_assets.zip . --exclude=.* --exclude=*.git* --exclude=minecraft_assets.zip
 
     - name: Create Release
       id: create_release
@@ -25,8 +23,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: 'v1.0.${{ github.run_number }}'
-        release_name: 'EnderNation-Resource-Pack v1.0.${{ github.run_number }}'
+        tag_name: 'v${{ github.run_number }}'
+        release_name: 'EnderNation-Resource-Pack v${{ github.run_number }}'
         body: |
           🎉 EnderNation-Resource-Pack - Offizielles Server-Resource-Pack
             
@@ -41,9 +39,9 @@ jobs:
           
           📥 Installation:
           
-          1. Download: Lade das Resource-Pack [hier](https://github.com/EnderNationTeam/EnderNation-Resource-Pack/releases/new#) herunter.
+          1. Download: Lade das Resource-Pack [hier](https://github.com/EnderNationTeam/EnderNation-Resource-Pack/releases/latest/download/EnderNation-Resource-Pack.zip) herunter.
           2. Installation: Verschiebe die .zip-Datei in deinen resourcepacks-Ordner im Minecraft-Verzeichnis.
-          3. Aktivieren: Starte Minecraft, gehe zu den Ressourcenpaketen in den Optionen, und aktiviere das "EnderNation-Resource-Pack v1.0.0".
+          3. Aktivieren: Starte Minecraft, gehe zu den Ressourcenpaketen in den Optionen, und aktiviere das "EnderNation-Resource-Pack v${{ github.run_number }}".
           4. Genießen: Tritt dem EnderNation-Server bei und tauche in eine völlig neue Welt ein!
           
           ⚠️ Hinweis:
