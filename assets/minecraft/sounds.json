@@ -114,7 +114,26 @@
       "waitmusic": {
         "sounds": [
           "minecraft:waitmusic"]
+      },
+      "notification": {
+        "sounds": [
+          "minecraft:notification"]
+      },
+      "report_notification": {
+        "sounds": [
+          "minecraft:report_notification"]
+      },
+      "warn_notification": {
+        "sounds": [
+          "minecraft:warn_notification"]
+      },
+      "error_notification": {
+        "sounds": [
+          "minecraft:error_notification"]
       }
+      
+      
+      
         
       
   }
