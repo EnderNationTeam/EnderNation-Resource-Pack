@@ -1,7 +1,7 @@
 {
 	"credit": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 	"textures": {
-		"0": "block/pistolen_munition"
+		"0": "enderguns:item/rifle_ammo"
 	},
 	"elements": [
 		{
@@ -61,10 +61,17 @@
 	},
 	"groups": [
 		{
-			"name": "dye_brown",
+			"name": "Gewehr-Munition",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0]
+			"children": [
+				{
+					"name": "dye_green",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0]
+				}
+			]
 		}
 	]
 }
