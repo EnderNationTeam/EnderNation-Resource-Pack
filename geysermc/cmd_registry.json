@@ -1,0 +1,93 @@
+{
+    "minecraft:diamond_pickaxe":  {
+                                      "1":  "aa_12"
+                                  },
+    "minecraft:iron_hoe":  {
+                               "1":  "ak_47"
+                           },
+    "minecraft:wooden_axe":  {
+                                 "1":  "cz_550"
+                             },
+    "minecraft:diamond_shovel":  {
+                                     "1":  "desert_eagle"
+                                 },
+    "minecraft:golden_hoe":  {
+                                 "1":  "fal"
+                             },
+    "minecraft:golden_shovel":  {
+                                    "1":  "five_seven"
+                                },
+    "minecraft:stone_shovel":  {
+                                   "1":  "g17"
+                               },
+    "minecraft:wooden_pickaxe":  {
+                                     "1":  "m1014"
+                                 },
+    "minecraft:diamond_hoe":  {
+                                  "1":  "m16"
+                              },
+    "minecraft:iron_shovel":  {
+                                  "1":  "m1911"
+                              },
+    "minecraft:iron_axe":  {
+                               "1":  "m39"
+                           },
+    "minecraft:wooden_shovel":  {
+                                    "1":  "m9"
+                                },
+    "minecraft:diamond_axe":  {
+                                  "1":  "m98b"
+                              },
+    "minecraft:wooden_hoe":  {
+                                 "1":  "mp7"
+                             },
+    "minecraft:golden_axe":  {
+                                 "1":  "msr"
+                             },
+    "minecraft:stone_hoe":  {
+                                "1":  "p90"
+                            },
+    "minecraft:stone_pickaxe":  {
+                                    "1":  "remington_870"
+                                },
+    "minecraft:blaze_rod":  {
+                                "1":  "rocket_launcher"
+                            },
+    "minecraft:iron_pickaxe":  {
+                                   "1":  "spas_12"
+                               },
+    "minecraft:golden_pickaxe":  {
+                                     "1":  "striker"
+                                 },
+    "minecraft:stone_axe":  {
+                                "1":  "sv98"
+                            },
+    "minecraft:paper":  {
+                            "1":  "bandage",
+                            "2":  "advanced_medikit"
+                        },
+    "minecraft:glowstone_dust":  {
+                                     "1":  "flashbang"
+                                 },
+    "minecraft:snowball":  {
+                               "1":  "bullet"
+                           },
+    "minecraft:slime_ball":  {
+                                 "1":  "grenade"
+                             },
+    "minecraft:gold_nugget":  {
+                                  "1":  "pistol_ammo"
+                              },
+    "minecraft:flint":  {
+                            "1":  "rifle_ammo"
+                        },
+    "minecraft:wheat_seeds":  {
+                                  "1":  "shotgun_ammo"
+                              },
+    "minecraft:clay_ball":  {
+                                "1":  "sniper_ammo"
+                            },
+    "minecraft:ghast_tear":  {
+                                 "1":  "rocket_launcher_ammo"
+                             }
+}
