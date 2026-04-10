@@ -1,3 +1,7 @@
+Dieses Ressource Pack wird nicht mehr weitergearbeitet.\
+Die Weiterentwicklung geschieht in [https://github.com/EnderNationTeam/minecraft-resource-pack](https://github.com/EnderNationTeam/minecraft-resource-pack)
+
+
 # EnderNation Resource Pack
 
 Technische Projektdoku für das aktuelle Pack-Setup.
